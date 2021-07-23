@@ -69,3 +69,5 @@
 //     console.log("Set time out 0s");
 // }, 0);
 // console.log("End");
+console.log('hi');
+console.log('Bye');
